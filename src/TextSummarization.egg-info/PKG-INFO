@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: TextSummarization
+Version: 0.0.0
+Summary: a pypi package for NLP app
+Home-page: https://github.com/kiran-narayan1/text_summarization_project
+Author: kiran-narayan1
+Author-email: @gmail.com
+Project-URL: Bug Tracker, https://github.com/kiran-narayan1/text_summarization_project/issues
+License-File: LICENSE
+
+# text_summarization_project
